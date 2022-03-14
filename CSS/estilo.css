@@ -50,8 +50,7 @@ img {
 
 
 
-body::before {
-  		background-image: url("figuras/fondo.jpg");
+		/* body::before {´descargas/fondoweb.jpg´ }
   		content: "";
   		opacity: 0.9;
   		position: absolute;
